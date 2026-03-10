@@ -1,59 +1,77 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Halaman welcome
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img width="746" height="599" alt="Image" src="https://github.com/user-attachments/assets/38d359c7-2d1a-47bd-8000-cafba6dbd4fe" />
 
-## About Laravel
+Form login
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<img width="678" height="603" alt="Image" src="https://github.com/user-attachments/assets/409750f2-e69d-453e-bb6f-fb8116097e2c" />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Dashboard Admin
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<img width="1365" height="605" alt="Image" src="https://github.com/user-attachments/assets/a1d0a4e2-dc6b-46e4-9e24-941bf4f2200e" />
 
-## Learning Laravel
+Admin menambah produk baru
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
+<img width="1365" height="608" alt="Image" src="https://github.com/user-attachments/assets/bec476a0-3017-4eab-8a12-94f5cd874d38" />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Hasil menambah produk
 
-## Laravel Sponsors
+<img width="1365" height="606" alt="Image" src="https://github.com/user-attachments/assets/fb2f5b65-6c38-47b4-b4fe-2d06f23fcbaf" />
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+Admin menambah komentar
 
-### Premium Partners
+<img width="1365" height="603" alt="Image" src="https://github.com/user-attachments/assets/be9a6a85-0cdc-4c74-a04b-9a75e22b4d06" />
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+Mengedit data produk
 
-## Contributing
+<img width="1365" height="605" alt="Image" src="https://github.com/user-attachments/assets/09806daa-6a0b-473f-82aa-f99ef047db1d" />
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Hasil edit
 
-## Code of Conduct
+<img width="1365" height="605" alt="Image" src="https://github.com/user-attachments/assets/1d430c5b-5bec-47f8-b820-3044e1e5cdb7" />
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Database
 
-## Security Vulnerabilities
+<img width="422" height="343" alt="Image" src="https://github.com/user-attachments/assets/6ff16ebf-aae9-4ab3-ad2d-bee7398c2158" />
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+🚀 Project Name: Produk Katalog
+"Kelola Data Produk Jadi Lebih Keren, Aman, dan Interaktif"
 
-## License
+SpaceCatalog itu bukan sekadar web katalog biasa. Ini adalah aplikasi buat manajemen stok atau data barang yang tampilannya dibuat futuristik (Cyber-Modern). Di sini, kita nggak cuma bikin CRUD biasa, tapi juga mikirin gimana caranya supaya Admin dan User bisa nyaman pas pakai aplikasinya.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+🛡️ Senjata yang Dipakai (Tech Stack)
+Framework: Laravel 12 (Framework PHP paling update dan sat-set).
+
+Styling: Tailwind CSS (Biar tampilan web-nya punya efek kaca/glassmorphism yang lagi tren).
+
+Database: MySQL (Buat naruh semua data barang aman di pangkalan data).
+
+Auth System: Sistem Login yang bisa bedain mana Admin dan mana User biasa.
+
+🌟 Fitur Jagoan (Fitur Utama)
+1. Dashboard Admin (Pusat Kendali)
+Tampilan awal buat Admin yang isinya angka-angka statistik, kayak jumlah produk dan jumlah komentar yang masuk. Semuanya kelihatan rapi pakai kartu-kartu transparan.
+
+2. Dua Model Tampilan Katalog
+Buat User: Tampilannya estetik, bersih, dan enak dilihat buat milih barang.
+
+Buat Admin: Isinya tabel lengkap (Gudang Data) yang ada tombol Edit dan Hapus-nya supaya kerjaan jadi lebih cepet.
+
+3. Kolom Komentar Interaktif
+User bisa nanya-nanya di kolom komentar, dan Admin bisa langsung jawab atau kasih validasi di bawah produk tersebut. Jadi komunikasinya lancar dua arah.
+
+4. CRUD & Upload Foto Anti Ribet
+Kelola data (tambah, lihat, ubah, hapus) sudah stabil banget. Termasuk urusan upload foto produk yang tersimpan rapi tanpa bikin database berat.
+
+🛠️ Cara Kerja Aplikasi (Workflow)
+Login: Masuk ke akun masing-masing.
+
+Cek Kondisi: Admin pantau dashboard buat liat perkembangan data.
+
+Input Barang: Admin nambahin produk baru lewat form "Manufaktur Baru".
+
+Tayang: Barang yang baru diinput otomatis muncul di katalog 
+
+Komentar: admin sama user bisa menambahkan komentar
+🎨 Konsep Desain
+Web ini pakai warna Indigo-Slate (gelap elegan) ditambah aksen Electric Cyan (biru terang). Sudut-sudut kotaknya dibuat melengkung banget (3xl) supaya kerasa kayak aplikasi masa depan yang smooth dan nggak kaku.
